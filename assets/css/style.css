@@ -21,6 +21,6 @@
 }
 
 .rodape {
-    background-color: blue;
+    /* background-color: blue; */
     grid-area: rodape; 
 }
